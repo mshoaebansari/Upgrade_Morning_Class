@@ -1,3 +1,8 @@
  This file is created by Ammar
+<<<<<<< HEAD
 # new line is added by shoaib
 # This file edited by muneeb
+=======
+# new line is added by Shoaib
+#new line is added by Ammar
+>>>>>>> 43e6f48b6201633e178628ca8c25cccd48e924a8
